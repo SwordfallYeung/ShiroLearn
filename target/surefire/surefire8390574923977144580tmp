@@ -1,0 +1,30 @@
+#surefire
+#Mon Jun 06 21:51:59 CST 2016
+testClassesDirectory=F\:\\IDEA\\Shiro2016.6.1\\target\\test-classes
+classPathUrl.4=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\ch\\qos\\logback\\logback-classic\\1.1.2\\logback-classic-1.1.2.jar
+forkMode=once
+classPathUrl.3=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\slf4j\\jcl-over-slf4j\\1.7.10\\jcl-over-slf4j-1.7.10.jar
+classPathUrl.2=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\slf4j\\slf4j-api\\1.7.10\\slf4j-api-1.7.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\IDEA\\Shiro2016.6.1\\target\\classes
+reportsDirectory=F\:\\IDEA\\Shiro2016.6.1\\target\\surefire-reports
+classPathUrl.0=F\:\\IDEA\\Shiro2016.6.1\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\IDEA\\Shiro2016.6.1\\src\\test\\java
+surefireClassPathUrl.1=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+classPathUrl.9=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\javax\\servlet\\javax.servlet-api\\3.1.0\\javax.servlet-api-3.1.0.jar
+classPathUrl.8=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\apache\\shiro\\shiro-web\\1.2.3\\shiro-web-1.2.3.jar
+classPathUrl.7=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\commons-beanutils\\commons-beanutils\\1.8.3\\commons-beanutils-1.8.3.jar
+childDelegation=false
+classPathUrl.6=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\org\\apache\\shiro\\shiro-core\\1.2.3\\shiro-core-1.2.3.jar
+classPathUrl.5=E\:\\Program Files (x86)\\apache-maven-3.1.0\\repository\\ch\\qos\\logback\\logback-core\\1.1.2\\logback-core-1.1.2.jar
